@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../quiz"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netclicks",
+		"editor.formatOnSave": true
+	}
+}
